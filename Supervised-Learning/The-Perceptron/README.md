@@ -1,0 +1,2 @@
+Overview
+The Perceptron is a fundamental binary classifier used in supervised learning that forms the basis of many modern neural networks. Invented by Frank Rosenblatt in 1957, it's designed to mimic the decision-making process of the human brain, albeit in a highly simplified form. This document provides a comprehensive guide to understanding, implementing, and applying the Perceptron algorithm in data science and machine learning projects.

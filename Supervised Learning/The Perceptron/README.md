@@ -35,7 +35,3 @@ The accompanying Jupyter Notebook (`Perceptron.ipynb`) includes a detailed imple
 - Model initialization and training
 - Evaluation of the model on test data
 - Visualization of the decision boundaries
-
-### Dataset
-
-The implementation uses the Diabetes Dataset, which consists of several medical predictor variables and one target variable, Outcome. Predictor variables include the number of pregnancies, glucose concentration, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age. This dataset is ideal for demonstrating the Perceptron due to its binary outcome feature, crucial for binary classification tasks.
